@@ -106,7 +106,7 @@ namespace CgfConverterConsole
                             Utils.Log(LogLevelEnum.Critical, ex.StackTrace);
                             Utils.Log(LogLevelEnum.Critical, "********************************************************************************");
                             Utils.Log(LogLevelEnum.Critical);
-                            return 1;
+                            //return 1;
                         }
                     }
                 }
